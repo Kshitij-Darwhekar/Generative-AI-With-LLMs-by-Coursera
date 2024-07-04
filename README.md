@@ -1,5 +1,7 @@
 # Generative-AI-With-LLMs-by-Coursera
-This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
+This repository contains Labs, PPTs, Resources and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
+
+You can Chekout My Certificate : https://www.coursera.org/account/accomplishments/verify/YR8HQKTW9ARW 
 
 ## Week 1
 
@@ -54,11 +56,11 @@ This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generati
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
 #### Links
-- [Notes]()
+- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Notes)
 - [Handwritten Notes]()
-- [Week 3 PPT]()
-- [Week 3 Lab]()
-- [Week 3 Resources]()
+- [Week 3 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203.pdf)
+- [Week 3 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/84e07628dd22d160d902ba8a92c75d8af1a501fe/Week%203/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
+- [Week 3 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203%20resources.pdf)
 
 <br/>
 <br/>
