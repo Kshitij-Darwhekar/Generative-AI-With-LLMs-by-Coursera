@@ -8,9 +8,6 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 
 
 
-Certainly! Here's an argument you can use for your GitHub repository:
-
----
 
 ## Copyright Notice
 
@@ -29,6 +26,3 @@ Every presentation slide and piece of code in this repository includes an acknow
 ### Conclusion
 By adhering to the guidelines provided by DeepLearning.AI, this repository serves as a platform for knowledge sharing while respecting the intellectual property rights of the original creators. If you have any questions or concerns regarding the materials shared here, please feel free to contact me.
 
----
-
-Feel free to modify this argument to fit your specific needs or to add any additional details that you think are relevant.
