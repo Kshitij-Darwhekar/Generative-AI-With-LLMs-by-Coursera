@@ -3,6 +3,8 @@ This repository contains Labs, PPTs, Quizzes, Resources and Handwritten Notes fo
 
 You can Chekout My Certificate : https://www.coursera.org/account/accomplishments/verify/YR8HQKTW9ARW 
 
+<br/>
+
 ## Week 1
 
 #### Generative AI use cases, project lifecycle, and model pre-training
