@@ -37,9 +37,7 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 ## Copyright Notice
 
