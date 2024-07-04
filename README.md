@@ -53,7 +53,12 @@ This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generati
 - Define chain-of-thought prompting and describe how it can be used to improve LLMs reasoning and planning abilities
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
-
+#### Links
+- [Notes]()
+- [Handwritten Notes]()
+- [Week 3 PPT]()
+- [Week 3 Lab]()
+- [Week 3 Resources]()
 
 <br/>
 <br/>
