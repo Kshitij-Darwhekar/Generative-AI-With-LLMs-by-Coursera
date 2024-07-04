@@ -36,7 +36,7 @@ This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generati
 
 
 #### Links
-- [Notes]()
+- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/4b49e2b9bb68ba1c80c42c3301908b875ef06ae4/Week%202/Notes)
 - [Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Handwritten%20Notes)
 - [Week 2 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Week%202.pdf)
 - [Week 2 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Lab_2_fine_tune_generative_ai_model.ipynb)
