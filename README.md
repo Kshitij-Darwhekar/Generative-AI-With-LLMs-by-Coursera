@@ -13,10 +13,11 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 
 #### Links
 
-- [Notes]()
-- [Handwritten Notes]()
-- [Week 1 PPT]()
-- [Week 1 Lab]()
+- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Notes)
+- [Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Handwritten%20Notes)
+- [Week 1 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Week%201.pdf )
+- [Week 1 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Lab_1_summarize_dialogue.ipynb)
+- [Week 1 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Week%201%20resources.pdf)
 
 
 
