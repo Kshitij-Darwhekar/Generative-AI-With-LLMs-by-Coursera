@@ -13,10 +13,10 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 
 #### Links
 
-- ![Notes]()
-- ![Handwritten Notes]()
-- ![Week 1 PPT]()
-- ![Week 1 Lab]()
+- [Notes]()
+- [Handwritten Notes]()
+- [Week 1 PPT]()
+- [Week 1 Lab]()
 
 
 
