@@ -1,6 +1,8 @@
 # Generative-AI-With-LLMs-by-Coursera
 This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
 
+You can Chekout My Certificate : https://www.coursera.org/account/accomplishments/verify/YR8HQKTW9ARW 
+
 ## Week 1
 
 #### Generative AI use cases, project lifecycle, and model pre-training
