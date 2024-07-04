@@ -1,5 +1,5 @@
 # Generative-AI-With-LLMs-by-Coursera
-This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With LLM offered by DeepLearing.AI and AWS.  
+This repository contains Labs, Quizzes, PPTs and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
 
 ## Week 1
 
@@ -11,7 +11,6 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors.
 
-<br/>
 
 #### Links
 
@@ -35,7 +34,6 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 - Explain how PEFT decreases computational cost and overcomes catastrophic forgetting
 - Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more tasks
 
-<br/>
 
 #### Links
 - [Notes]()
@@ -43,6 +41,8 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 - [Week 2 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Week%202.pdf)
 - [Week 2 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Lab_2_fine_tune_generative_ai_model.ipynb)
 - [Week 2 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Week%202%20Resources.pdf)
+
+<br/>
 
 ## Week 3
 
