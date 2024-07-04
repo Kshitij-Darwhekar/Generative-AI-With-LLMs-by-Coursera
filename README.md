@@ -11,6 +11,15 @@ This repository contains Labs, Quizzes , PPTs and Notes for Generative AI With L
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors.
 
+#### Links
+
+- [Notes]()
+- [Handwritten Notes]()
+- [Week 1 PPT]()
+- [Week 1 Lab]()
+
+
+
 <br/>
 
 ## Week 2
