@@ -63,7 +63,7 @@ You can Chekout My Certificate : https://www.coursera.org/account/accomplishment
 #### Links
 - [Week 3 Quiz](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/678bd92b1a7188702630d115ae425a046e3ad79a/Week%203/Week%203%20Quiz.md)
 - [Week 3 Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Notes)
-- [Week 3 Handwritten Notes]()
+- [Week 3 Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/2ae7bf4717d683f80d244fe3d24743c5eb4cd499/Week%203/Handwritten%20Notes)
 - [Week 3 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203.pdf)
 - [Week 3 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/84e07628dd22d160d902ba8a92c75d8af1a501fe/Week%203/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 - [Week 3 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203%20resources.pdf)
