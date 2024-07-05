@@ -1,7 +1,9 @@
 # Generative-AI-With-LLMs-by-Coursera
-This repository contains Labs, PPTs, Resources and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
+This repository contains Labs, PPTs, Quizzes, Resources and Handwritten Notes for [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) offered by DeepLearing.AI and AWS.  
 
 You can Chekout My Certificate : https://www.coursera.org/account/accomplishments/verify/YR8HQKTW9ARW 
+
+<br/>
 
 ## Week 1
 
@@ -16,8 +18,9 @@ You can Chekout My Certificate : https://www.coursera.org/account/accomplishment
 
 #### Links
 
-- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Notes)
-- [Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Handwritten%20Notes)
+- [Week 1 Quiz](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/4ebe4166b17a6d1e4de78fb023a47dbeff306df9/Week%201/Week%201%20Quiz.md)
+- [Week 1 Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Notes)
+- [Week 1 Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Handwritten%20Notes)
 - [Week 1 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Week%201.pdf )
 - [Week 1 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Lab_1_summarize_dialogue.ipynb)
 - [Week 1 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/b8f188a1b35f257ffeaded6b914be2ec8e14eac5/Week%201/Week%201%20resources.pdf)
@@ -38,8 +41,10 @@ You can Chekout My Certificate : https://www.coursera.org/account/accomplishment
 
 
 #### Links
-- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/4b49e2b9bb68ba1c80c42c3301908b875ef06ae4/Week%202/Notes)
-- [Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Handwritten%20Notes)
+
+- [Week 2 Quiz](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/d681f425fe701874c2c0fd320a6eb709c4261920/Week%202/Week%202%20Quiz.md)
+- [Week 2 Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/4b49e2b9bb68ba1c80c42c3301908b875ef06ae4/Week%202/Notes)
+- [Week 2 Handwritten Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Handwritten%20Notes)
 - [Week 2 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Week%202.pdf)
 - [Week 2 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Lab_2_fine_tune_generative_ai_model.ipynb)
 - [Week 2 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/adaeba6f63e2b6e1a8ebc8ef9b6a74f4e8bc7d35/Week%202/Week%202%20Resources.pdf)
@@ -56,8 +61,9 @@ You can Chekout My Certificate : https://www.coursera.org/account/accomplishment
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
 #### Links
-- [Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Notes)
-- [Handwritten Notes]()
+- [Week 3 Quiz](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/678bd92b1a7188702630d115ae425a046e3ad79a/Week%203/Week%203%20Quiz.md)
+- [Week 3 Notes](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/tree/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Notes)
+- [Week 3 Handwritten Notes]()
 - [Week 3 PPT](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203.pdf)
 - [Week 3 Lab](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/84e07628dd22d160d902ba8a92c75d8af1a501fe/Week%203/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 - [Week 3 Resources](https://github.com/Kshitij-Darwhekar/Generative-AI-With-LLMs-by-Coursera/blob/48268093b44c54075da4e37cd3f4d1af5abf0fc7/Week%203/Week%203%20resources.pdf)
@@ -65,8 +71,7 @@ You can Chekout My Certificate : https://www.coursera.org/account/accomplishment
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 ## Copyright Notice
