@@ -3,6 +3,8 @@ This repository contains Labs, PPTs, Quizzes, Resources and Handwritten Notes fo
 
 You can Chekout My Certificate : https://www.coursera.org/account/accomplishments/verify/YR8HQKTW9ARW 
 
+![image](https://github.com/user-attachments/assets/be3a3de5-3634-4965-bb62-b2d737493c6e)
+
 <br/>
 
 ## Week 1
